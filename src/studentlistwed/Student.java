@@ -5,6 +5,7 @@ package studentlistwed;
  * A class to model student Objects. A student has a name.
  * @author dancye, 2023
  */
+//test
 public class Student 
 {
     private String name;
